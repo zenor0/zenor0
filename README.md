@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Hi there! zenor0, a FZU student here, suck at programing :shit: . Still learning. 
