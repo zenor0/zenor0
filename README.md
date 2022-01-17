@@ -14,12 +14,12 @@ Here are some ideas to get you started: //I changed this line at the end.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I'm currently working on a winter homework assigned by my strange teacher who gonna teach us in next term.
+
+fin.
 -->
 
 
 
-Hi there! zenor0, a FZU student here,  suck at programing :shit: . Still learning. 
+Hi there! zenor0, a FZU student here, suck at programing :shit: . Still learning. 
 
-I'm currently working on a winter homework assigned by my strange teacher who gonna teach us in next term.
-
-fin.
