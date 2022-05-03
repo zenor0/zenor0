@@ -21,5 +21,5 @@ fin.
 
 
 
-Hi there! zenor0, a FZU student here, suck at programing :shit: . Still learning. 
+Hi there! zenor0, a FZU student, suck at programming :shit: . Still learning. 
 
