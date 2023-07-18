@@ -1,16 +1,41 @@
 <h1 align="center">Hi 👋, I'm zenor0</h1>
 <h3 align="center">A student developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenor0&label=Profile%20views&color=0e75b6&style=flat" alt="zenor0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zenor0&label=Profile%20views&color=0e75b6&style=flat" alt="zenor0" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenor0&column=4" alt="zenor0" /></a> </p>
+I'm a college student, a programming rookie from China. working hard....
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenor0&" alt="zenor0" /></p>
+**About me**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently studying in Fuzhou University.
+- 📫 How to reach me: [zenor0@outlook.com](mailto:zenor0@outlook.com)
+- 💬 Ask me about anything [here](https://github.com/zenor0/zenor0/issues)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenor0&show_icons=true&locale=en&layout=compact" alt="zenor0" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zenor0&show_icons=true&locale=en" alt="zenor0" /></p>
+
+<code><img height="20" alt="vscode" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" alt="python" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"></code>
+<code><img height="20" alt="flask" src="https://github.com/devicons/devicon/raw/master/icons/flask/flask-original.svg"></code>
+<code><img height="20" alt="fastapi" src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg"></code>
+<code><img height="20" alt="c" src="https://github.com/devicons/devicon/raw/master/icons/c/c-line.svg"></code>
+<code><img height="20" alt="cpp" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-line.svg"></code>
+<code><img height="20" alt="javascript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" alt="vuejs" src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="20" alt="mysql" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" alt="pytorch" src="https://github.com/devicons/devicon/raw/master/icons/pytorch/pytorch-original.svg"></code>
+<code><img height="20" alt="jupyter" src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="20" alt="docker" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg"></code>
+<code><img height="20" alt="nginx" src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg"></code>
+<code><img height="20" alt="socketio" src="https://github.com/devicons/devicon/raw/master/icons/socketio/socketio-original.svg"></code>
+<code><img height="20" alt="latex" src="https://github.com/devicons/devicon/raw/master/icons/latex/latex-original.svg"></code>
+<code><img height="20" alt="git" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg"></code>
+<code><img height="20" alt="photoshop" src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg"></code>
+<code><img height="20" alt="premierepro" src="https://github.com/devicons/devicon/raw/master/icons/premierepro/premierepro-plain.svg"></code>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=zenor0&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenor0&layout=compact" />
+</div>
 
